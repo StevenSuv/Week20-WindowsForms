@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuckConsole", "ChuckConsole\ChuckConsole.csproj", "{F4811DB0-24BC-4D76-B6FF-91095034A995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuckForm", "ChuckForm\ChuckForm.csproj", "{C1BA2121-88E8-4022-8391-17116B39CEA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4811DB0-24BC-4D76-B6FF-91095034A995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4811DB0-24BC-4D76-B6FF-91095034A995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4811DB0-24BC-4D76-B6FF-91095034A995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4811DB0-24BC-4D76-B6FF-91095034A995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BA2121-88E8-4022-8391-17116B39CEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BA2121-88E8-4022-8391-17116B39CEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BA2121-88E8-4022-8391-17116B39CEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BA2121-88E8-4022-8391-17116B39CEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82CE090A-15F1-49CE-90C6-A26B32ADAB9D}
+	EndGlobalSection
+EndGlobal
